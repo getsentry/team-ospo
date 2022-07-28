@@ -1,4 +1,4 @@
-# Open Source Program Office (OSPO)
+## Open Source Program Office (OSPO)
 
 [**@chadwhitacre**](https://github.com/chadwhitacre), Head of Open Source  
 [**@ethanhs**](https://github.com/ethanhs), Software Engineer
