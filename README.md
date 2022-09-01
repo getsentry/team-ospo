@@ -5,7 +5,8 @@
 ## Team
 
 [**@chadwhitacre**](https://github.com/chadwhitacre), Head of Open Source  
-[**@ethanhs**](https://github.com/ethanhs), Software Engineer
+[**@ethanhs**](https://github.com/ethanhs), Software Engineer  
+[**@hubertdeng123**](https://github.com/hubertdeng123), Software Engineer
 
 ## Mandates
 
