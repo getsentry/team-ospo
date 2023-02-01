@@ -1,0 +1,19 @@
+name: `Type: Epic` Setup Request
+description: Configure an automation to shadow your epics in Jira
+body:
+  - type: input
+    id: from
+    attributes:
+      label: "From"
+			description: "A `Team: *` label in `sentry` or a repo slug"
+      placeholder: "ex. Team: Open Source -or- team-ospo"
+    validations:
+      required: true
+  - type: input
+    id: to 
+    attributes:
+      label: "To"
+			description: "Jira project identifier"
+      placeholder: "ex. OSPO"
+    validations:
+      required: true
