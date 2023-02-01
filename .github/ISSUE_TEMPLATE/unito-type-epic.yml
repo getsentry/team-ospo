@@ -5,7 +5,7 @@ body:
     id: from
     attributes:
       label: "From"
-			description: "A `Team: *` label in `sentry` or a repo slug"
+      description: "A `Team: *` label in `sentry` or a repo slug"
       placeholder: "ex. Team: Open Source -or- team-ospo"
     validations:
       required: true
@@ -13,7 +13,7 @@ body:
     id: to 
     attributes:
       label: "To"
-			description: "Jira project identifier"
+      description: "Jira project identifier"
       placeholder: "ex. OSPO"
     validations:
       required: true
