@@ -1,5 +1,5 @@
-name: `Type: Epic` Setup Request
-description: Configure an automation to shadow your epics in Jira
+name: "`Type: Epic` Setup Request"
+description: "Configure an automation to shadow your epics in Jira"
 body:
   - type: input
     id: from
