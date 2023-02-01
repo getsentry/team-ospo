@@ -1,0 +1,11 @@
+name: "`Sync: Jira` Setup Request"
+description: "Configure an automation to shadow your issues in Jira"
+title: "`Sync: Jira` automation setup request"
+body:
+  - type: input
+    id: from
+    attributes:
+      label: "Repo"
+      placeholder: "e.g. sentry-floo-flah"
+    validations:
+      required: true
