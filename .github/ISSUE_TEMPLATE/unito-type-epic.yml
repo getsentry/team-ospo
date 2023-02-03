@@ -14,7 +14,7 @@ body:
     id: to 
     attributes:
       label: "To"
-      description: "Jira project identifier"
-      placeholder: "e.g. OSPO"
+      description: "Jira project name"
+      placeholder: "e.g. Open Source"
     validations:
       required: true
