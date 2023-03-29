@@ -10,7 +10,7 @@
 ## Mandates
 
 1. Ship [self-hosted](https://github.com/getsentry/self-hosted).
-2. Support Sentry’s open source communities.
+2. Support Sentry’s open source communities through automations in [eng-pipes](https://github.com/getsentry/eng-pipes).
 3. Build Sentry’s open source brand.
 
 ## See Also
