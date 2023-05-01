@@ -15,7 +15,7 @@
 
 ## See Also
 
-### [Quarterly Plan](https://github.com/getsentry/team-ospo/issues/64)
+### [Quarterly Plan](https://github.com/getsentry/team-ospo/issues/109)
 
 ### [All Issues](https://github.com/getsentry/team-ospo/issues) 
 
