@@ -4,8 +4,11 @@
 
 ## Team
 
+*sorted by join date, ascending*
+
 [**@chadwhitacre**](https://github.com/chadwhitacre), Head of Open Source  
-[**@hubertdeng123**](https://github.com/hubertdeng123), Software Engineer
+[**@hubertdeng123**](https://github.com/hubertdeng123), Software Engineer  
+[**@azaslavsky**](https://github.com/azaslavsky), Software Engineer
 
 ## Mandates
 
