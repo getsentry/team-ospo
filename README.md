@@ -23,3 +23,5 @@
 ### [All Issues](https://github.com/getsentry/team-ospo/issues) 
 
 ### [open.sentry.io](https://open.sentry.io/) 
+
+### [Notion homepage🔒](https://www.notion.so/9d79a7d3f2a84ec986e463e17fe5635d)
